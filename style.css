@@ -21,13 +21,16 @@ body {
 }
 
 .container {
-    margin-inline: 1rem;
+    margin: 1rem;
     max-width: 650px;
     background: var(--White);
     padding: 3rem;
     border-radius: 1.5rem;
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+
 }
+
+
 
 .faq__desc {
     color: var(--Grayish-purple);
